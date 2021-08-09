@@ -1,0 +1,208 @@
+/*fonts*/
+@font-face {
+  font-family: Poppins-Regular;
+  src: url(../fonts/Poppins/Poppins-Regular.ttf);
+}
+@font-face {
+  font-family: Poppins-Medium;
+  src: url(../fonts/Poppins/Poppins-Medium.ttf);
+}
+@font-face {
+  font-family: Poppins-SemiBold;
+  src: url(../fonts/Poppins/Poppins-SemiBold.ttf);
+}
+@font-face {
+  font-family: Poppins-Bold;
+  src: url(../fonts/Poppins/Poppins-Bold.ttf);
+}
+/*fonts*/
+
+/*common css start*/
+body {
+  font-family: Poppins-Regular;
+  font-size: 16px;
+  color: #ffffff;
+  margin: 0;
+}
+/*common css end*/
+/*header start*/
+header {
+  background-color: #daac00;
+  padding: 10px 0;
+}
+.menu ul li a {
+  font-family: Poppins-Medium;
+  font-size: 28px;
+  color: #ffffff !important;
+  margin-right: 18px;
+}
+.form_box {
+  background-color: #fcc302;
+}
+/*header end*/
+/*banner start*/
+.container2 {
+  background-color: #fcc302;
+  padding-bottom: 70px;
+}
+.banner_text {
+  margin-top: 175px;
+  padding-left: 20px;
+  padding-right: 50px;
+}
+.banner_text h1 {
+  font-family: Poppins-SemiBold;
+  font-size: 65px;
+}
+.banner_text p {
+  font-size: 29px;
+  margin: 45px 0;
+}
+.banner_text button {
+  margin-right: 15px;
+}
+.btn_outline:focus {
+  box-shadow: none !important;
+}
+.banner_img {
+  width: 418px;
+  margin-top: 75px;
+}
+/*banner end*/
+/*veteran care section start*/
+.container3 {
+  padding: 120px 0;
+}
+.veterancare_text {
+  color: #313243;
+}
+.veterancare_text h1 {
+  font-family: Poppins-SemiBold;
+  font-size: 50px;
+  padding-top: 10px;
+}
+.veterancare_text p {
+  font-size: 29px;
+}
+.veterancare_demo iframe {
+  width: 580px;
+  height: 360px;
+}
+/*veteran care section end*/
+/*service start*/
+.pet_care {
+  background-color: #fcc302;
+  padding: 70px 0 60px;
+}
+.features_heading h1 {
+  font-family: Poppins-Bold;
+  font-size: 55px;
+  margin-bottom: 12px;
+}
+.features_heading p {
+  font-size: 28px;
+  margin-bottom: 80px;
+}
+.features_card {
+  width: 335px;
+}
+.features_text {
+  background-color: #fcc302;
+  text-align: center;
+}
+.features_text h2 {
+  font-family: Poppins-SemiBold;
+  font-size: 37px;
+  letter-spacing: -2px;
+  margin-top: 15px;
+}
+.features_text p {
+  font-size: 20px;
+}
+/*service end*/
+
+/*pets price section start*/
+.buy_btn {
+  padding: 10px 25px;
+  margin-top: 30px;
+}
+.buy_btn h2 {
+  font-family: Poppins-SemiBold;
+  font-size: 25px;
+  margin: 0;
+}
+/*pets price section end*/
+
+/*vetcare team section start*/
+.vetcare {
+  padding: 70px 0 60px;
+}
+.vetcare_text {
+  color: #313243;
+}
+.info_text {
+  color: #313243;
+  background-color: transparent;
+}
+.info_text p {
+  font-size: 25px;
+}
+.info_icons ul li i {
+  font-size: 30px;
+  color: #daac00;
+}
+/*vetcare team section end*/
+/*footer start*/
+footer {
+  background-color: #343434;
+  padding: 120px 0 120px;
+}
+.footer_section h2 {
+  font-family: Poppins-SemiBold;
+  font-size: 35px;
+  padding-bottom: 15px;
+}
+/*about section*/
+.about_links ul li {
+  list-style: none;
+}
+.about_links ul li a {
+  color: #ffffff;
+  text-decoration: none;
+}
+/*services section*/
+.service_links ul li {
+  list-style: none;
+}
+.service_links ul li a {
+  color: #ffffff;
+  text-decoration: none;
+}
+/*contact section*/
+.contact {
+  text-align: right;
+}
+.contact p {
+  font-size: 20px;
+}
+.email_box {
+  margin: 40px 0;
+}
+.email_box input {
+  width: 350px;
+  height: 60px;
+}
+.email_box button {
+  width: 60px;
+}
+.email_box i {
+  font-size: 38px;
+}
+.contact_list ul li i {
+  width: 35px;
+  height: 35px;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 5px;
+}
+/*footer end*/

@@ -1,0 +1,334 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+  /*banner start*/
+  .banner_text {
+    margin-top: 110px;
+    text-align: center;
+  }
+  .banner_text h1 {
+    font-size: 38px;
+  }
+  .banner_text p {
+    font-size: 19px;
+    margin: 25px 0;
+  }
+  .banner_img {
+    width: 418px;
+    margin-top: 75px;
+  }
+  /*banner end*/
+  /*service start*/
+  .pet_care {
+    padding: 45px 0 50px;
+    text-align: center;
+  }
+  .features_heading h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  .features_heading p {
+    font-size: 23px;
+    margin-bottom: 55px;
+  }
+  .features_card {
+    width: 225px;
+  }
+  .features_text h2 {
+    font-size: 23px;
+    letter-spacing: -1px;
+  }
+  .features_text p {
+    font-size: 14px;
+  }
+  /*service end*/
+  /*veteran care section start*/
+  .container3 {
+    padding: 45px 0 0;
+    text-align: center;
+  }
+  .veterancare_text {
+    text-align: center;
+  }
+  .veterancare_text h1 {
+    font-size: 30px;
+    text-align: center;
+  }
+  .veterancare_text p {
+    font-size: 17px;
+    text-align: center;
+  }
+  .vet_btn {
+    margin: 10px 140px 50px 0;
+  }
+  .veterancare_demo iframe {
+    width: 370px;
+    height: 212px;
+    margin: 40px 0;
+  }
+  /*veteran care section end*/
+  /*pets price section start*/
+  .buy_btn {
+    margin: 15px 0 20px;
+  }
+  /*pets price section end*/
+  /*footer start*/
+  footer {
+    padding: 75px 0 65px;
+  }
+  .footer_section h2 {
+    font-size: 25px;
+    padding: 15px 0 8px;
+  }
+  .footer_section ul li a h4 {
+    font-size: 18px !important;
+  }
+  .contact {
+    text-align: left;
+  }
+  .contact p {
+    font-size: 19px;
+    margin: 0;
+  }
+  .email_box input {
+    width: 255px;
+    height: 48px;
+  }
+  .email_box button {
+    width: 45px;
+    padding: 0;
+  }
+  /*footer end*/
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /*banner start*/
+  .banner_text {
+    margin-top: 75px;
+    text-align: center;
+  }
+  .banner_text h1 {
+    font-size: 38px;
+  }
+  .banner_text p {
+    font-size: 19px;
+    margin: 25px 0;
+  }
+  .banner_img {
+    width: 418px;
+    margin-top: 75px;
+  }
+  /*banner end*/
+  /*service start*/
+  .pet_care {
+    padding: 45px 0 50px;
+  }
+  .features_heading h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  .features_heading p {
+    font-size: 23px;
+    margin-bottom: 55px;
+  }
+  .features_card {
+    width: 225px;
+  }
+  .features_text h2 {
+    font-size: 23px;
+    letter-spacing: -1px;
+  }
+  .features_text p {
+    font-size: 14px;
+  }
+  /*service end*/
+  /*veteran care section start*/
+  .container3 {
+    padding: 90px 0;
+  }
+  .veterancare_text h1 {
+    font-size: 28px;
+    padding-top: 0px;
+  }
+  .veterancare_text p {
+    font-size: 16px;
+  }
+  .veterancare_demo iframe {
+    width: 370px;
+    height: 212px;
+    padding-top: 10px;
+  }
+  /*veteran care section end*/
+  /*footer start*/
+  footer {
+    padding: 75px 0 65px;
+  }
+  .footer_section h2 {
+    font-size: 27px;
+    padding-bottom: 6px;
+  }
+  .footer_section ul li a h4 {
+    font-size: 18px !important;
+  }
+  .email_box input {
+    width: 255px;
+    height: 48px;
+  }
+  .email_box button {
+    width: 45px;
+    padding: 0;
+  }
+  /*footer end*/
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /*banner start*/
+  .banner_text {
+    margin-top: 110px;
+    text-align: center;
+  }
+  .banner_text h1 {
+    font-size: 44px;
+  }
+  .banner_text p {
+    font-size: 19px;
+    margin: 25px 0;
+  }
+  .banner_img {
+    width: 418px;
+    margin-top: 75px;
+  }
+  /*banner end*/
+  /*service start*/
+  .pet_care {
+    padding: 45px 0 50px;
+  }
+  .features_heading h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  .features_heading p {
+    font-size: 23px;
+    margin-bottom: 55px;
+  }
+  .features_card {
+    width: 225px;
+  }
+  .features_text h2 {
+    font-size: 23px;
+    letter-spacing: -1px;
+  }
+  .features_text p {
+    font-size: 14px;
+  }
+  /*service end*/
+  /*veteran care section start*/
+  .container3 {
+    padding: 90px 0;
+  }
+  .veterancare_text h1 {
+    font-size: 28px;
+    padding-top: 0px;
+  }
+  .veterancare_text p {
+    font-size: 16px;
+  }
+  .veterancare_demo iframe {
+    width: 370px;
+    height: 212px;
+    padding-top: 10px;
+  }
+  /*veteran care section end*/
+  /*pets price section start*/
+  .buy_btn {
+    padding: 6px 15px;
+    margin-top: 12px;
+  }
+  /*pets price section end*/
+  /*footer start*/
+  footer {
+    padding: 75px 0 65px;
+  }
+  .footer_section h2 {
+    font-size: 27px;
+    padding-bottom: 6px;
+  }
+  .footer_section ul li a h4 {
+    font-size: 18px !important;
+  }
+  .email_box input {
+    width: 255px;
+    height: 48px;
+  }
+  .email_box button {
+    width: 45px;
+    padding: 0;
+  }
+  /*footer end*/
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /*banner start*/
+  .banner_text h1 {
+    font-size: 44px;
+  }
+  .banner_text p {
+    font-size: 19px;
+    margin: 25px 0;
+  }
+  .banner_text {
+    margin-top: 190px;
+  }
+  .banner_img {
+    width: 418px;
+    margin-top: 75px;
+  }
+  /*banner end*/
+  /*service start*/
+  .pet_care {
+    padding: 45px 0 50px;
+  }
+  .features_heading h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  .features_heading p {
+    font-size: 23px;
+    margin-bottom: 55px;
+  }
+  .features_card {
+    width: 290px;
+  }
+  .features_text h2 {
+    font-size: 32px;
+  }
+  .features_text p {
+    font-size: 18px;
+  }
+  /*service end*/
+  /*veteran care section start*/
+  .container3 {
+    padding: 90px 0;
+  }
+  .veterancare_text h1 {
+    font-size: 35px;
+    padding-top: 0px;
+  }
+  .veterancare_text p {
+    font-size: 20px;
+  }
+  .veterancare_demo iframe {
+    width: 420px;
+    height: 237px;
+  }
+  /*veteran care section end*/
+}
+/* Extra Large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+}
+
+/* Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+}
